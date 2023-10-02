@@ -46,3 +46,14 @@ print(type(mixed_list))
 print(type(tple))
 print(type(dictionary))
 print(type(number_range))
+
+
+# convert data
+text = "Hello there!"
+number = 755
+# this can't be done, because python can only concatenate str (not "int") to str 
+# print(text + " " +number)
+
+# convert int data into a string
+number = str(755)
+print(text + " " + number)
