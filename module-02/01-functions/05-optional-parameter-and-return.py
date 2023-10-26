@@ -1,5 +1,5 @@
 """
-Optional paramete:
+Optional parameter:
 In Python, you can define optional parameters in a function by assigning default values to those parameters. 
 When a function is called, if a value is not provided for an optional parameter, it will use its default value. 
 
