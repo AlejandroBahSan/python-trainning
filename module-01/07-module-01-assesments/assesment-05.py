@@ -1,5 +1,5 @@
 """
-Module 01 - Test 05
+Module 01 - assesment 05
 
 ## Instructions
 
@@ -15,7 +15,7 @@ first_users_number = int(input("Please input the first number: "))
 second_users_number = int(input("Please input the second number: "))
 
 if first_users_number < second_users_number:
-    for number_to_show in range (first_users_number, (second_users_number + 1)):
-     print(number_to_show)
+    for number_to_show in range(first_users_number, (second_users_number + 1)):
+        print(number_to_show)
 else:
     print("Please note that, the first number has to be less than the second number")

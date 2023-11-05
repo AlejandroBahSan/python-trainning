@@ -1,5 +1,5 @@
 """
-Module 01 - Test 06
+Module 01 - assesment 06
 
 ## Instructions
 
@@ -15,9 +15,7 @@ for first_factor in range(1, 11):
     print(f"############ MULTIPLICATION TABLE FOR {first_factor} ###########")
     print("##############################################################")
     # Generate and print the multiplication table for the current number
-    for second_factor in range(1 ,11):
+    for second_factor in range(1, 11):
         print(f"{first_factor} x {second_factor} = {first_factor*second_factor}")
         # Add a newline for separation between tables
         print("\n")
-
-

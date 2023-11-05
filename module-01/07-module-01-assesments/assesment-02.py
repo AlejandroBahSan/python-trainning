@@ -1,5 +1,5 @@
 """
-Module 01 - Test 02
+Module 01 - assesment 02
 
 ## Instructions
 
@@ -12,9 +12,9 @@ Module 01 - Test 02
 
 verification_number = 2
 
-for counter in range (1, 121):
+for counter in range(1, 121):
     if counter % verification_number == 0:
-       print(f"The number {str(counter)} is an even number")
+        print(f"The number {str(counter)} is an even number")
     # else:
     #     print(f"{counter} is not an even number")
 
